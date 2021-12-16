@@ -1,4 +1,4 @@
-# A Teeny-Tiny Multivariate Polynomial Public Key (MPPK) 
+# A Teeny-Tiny Implementation of Multivariate Polynomial Public Key (MPPK) 
 
 This is a minimal implementation of the Key Encapsulation Mechanism dscribed in the artcile:
 
